@@ -9,3 +9,9 @@ We can easily send 'fake packages' as a POST request to login and receive data.
 ```Python
 Api.login('username', 'password')
 ```
+
+## Information
+
+This API is currently under development and only usuable for College Tabor.
+I will try to program it later as a global API, so in the parameters
+any school can be passed in.
