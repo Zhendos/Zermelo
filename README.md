@@ -9,6 +9,7 @@ We can easily send 'fake packages' as a POST request to login and receive data.
 ```Python
 Api.login('username', 'password')
 ```
+Note that the #login doesn't return anything yet.
 
 ## Information
 
